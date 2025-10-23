@@ -1,4 +1,19 @@
 body{
-background-color: darkorchid;
-
+background-color: rgb(155, 155, 157);
+color: rgb(50, 50, 50);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 0px;
+}
+h1{
+color: darkgrey;
+font-size: 40px;
+}
+p{
+font-size: 25px;
+}
+header{
+    border-bottom: rgb(50, 50, 50);
+margin: 2px;
+padding: 10px;
+color: rgb(201, 2, 2);
 }
